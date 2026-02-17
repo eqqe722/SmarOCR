@@ -1,0 +1,7 @@
+{
+  "name": "IntelliOCR: Enterprise Data Extraction System",
+  "description": "A high-fidelity AI-powered OCR platform for multi-layer PDF processing, smart field extraction, automated cleaning, and semantic data classification.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
